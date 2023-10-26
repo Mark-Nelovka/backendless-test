@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbackendless=self.webpackChunkbackendless||[]).push([[695],{658:function(e,s,n){n.r(s);var r=n(184);s.default=function(e){var s=e.tableFormat;return(0,r.jsx)("table",{children:(0,r.jsx)("tbody",{children:(0,r.jsxs)("tr",{children:[(0,r.jsx)("td",{children:"Dummy"}),(0,r.jsx)("td",{children:s})]})})})}}}]);
+//# sourceMappingURL=dummyTable.js.fbc707e8.chunk.js.map
